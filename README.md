@@ -1,2 +1,1 @@
-# HEALTHY-PET
-:)
+HEALTHY PET
